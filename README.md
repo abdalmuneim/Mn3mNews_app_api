@@ -1,3 +1,9 @@
+### Modification
+    Hello, I am Abdalmuneim. I have added some modifications to the program. 
+    I have added a page view that appears only once at the start of the installation,
+    and also the ability to choose the country under development.
+
+
 ![Flutter news app theindianappguy](https://user-images.githubusercontent.com/55942632/81510826-7fccd680-9332-11ea-9e67-ad6268aadf35.png)
 
 
@@ -43,7 +49,6 @@ I will show how to create a flutter news app with NewsApi Org, In Flutter News A
     See the License for the specific language governing permissions and
     limitations under the License.
     
-### Modification
-    Hello, I am Abdalmuneim. I have added some modifications to the program. I have added a page view that appears only once at the start of the installation, and also the         ability to choose the country under development.
+
 
 
