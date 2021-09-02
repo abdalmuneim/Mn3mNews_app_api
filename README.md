@@ -42,5 +42,8 @@ I will show how to create a flutter news app with NewsApi Org, In Flutter News A
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+    
+### Modification
+    Hello, I am Abdalmuneim. I have added some modifications to the program. I have added a page view that appears only once at the start of the installation, and also the         ability to choose the country under development.
 
 
